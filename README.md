@@ -144,7 +144,20 @@ Example of API
 | **208**              | AlreadyReported                                                 |
 | **226**              | IM Used                                                         |
 
-### 3.1.3. 4xx: Failure (User Input Related Failures)
+### 3.1.3. 3xx: Redirection status
+| **HTTP STATUS CODE** |                                                                 |
+|----------------------|-----------------------------------------------------------------|
+| **300**              | Multiple Choice                                                 |
+| **301**              | Moved Permanently                                               |
+| **302**              | Found                                                           |
+| **303**              | See Other                                                       |
+| **304**              | Not Modified                                                    |
+| **305**              | Use Proxy                                                       |
+| **306**              | Unused                                                          |
+| **307**              | Temporary Redirect                                              |
+| **308**              | Permanent Redirect                                              |
+
+### 3.1.4. 4xx: Failure (User Input Related Failures)
 | **HTTP STATUS CODE** |                                                                 |
 |----------------------|-----------------------------------------------------------------|
 | **400**              | Bad Request                                                     |
@@ -164,7 +177,7 @@ Example of API
 | **421**              | Misdirected Request                                             |
 | **451**              | Unavailable For Legal Reasons                                   |
 
-### 3.1.4. 5xx (500 to 506): Failure (System or Server Side Failures)
+### 3.1.5. 5xx (500 to 506): Failure (System or Server Side Failures)
 | **HTTP STATUS CODE** |                                                                 |
 |----------------------|-----------------------------------------------------------------|
 | **500**              |  Internal Server Error                                          |
