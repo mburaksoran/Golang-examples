@@ -114,7 +114,7 @@ Example of API
   - the status code is 200
   - the reason phrase is OK
 
-- HTTP Response Status Codes 
+#HTTP Response Status Codes 
 
 - Informational (starting with numeric 1, 1xx)
 - Success (starting with numeric 2, 2xx)
