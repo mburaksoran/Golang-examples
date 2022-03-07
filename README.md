@@ -83,24 +83,24 @@ Example of API
  
 | SOME OF HEADER FIELDS |
 |-----------------------|
-| Accept-Charset        | 
-| Accept-Encoding       |         
-| Accept-Language       |         
-| Authorization         | 
-| Expect                | 
-| From                  | 
-| Host                  | 
-| If-Match              | 
-| If-Modified-Since     | 
-| If-None-Match         | 
-| If-Range              | 
-| If-Unmodified-Since   | 
-| Max-Forwards          | 
-| Proxy-Authorization   | 
-| Range                 | 
-| Referer               | 
-| TE                    | 
-| User-Agent            | 
+| [Accept-Charset](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Charset)        | 
+| [Accept-Encoding](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Encoding)       |         
+| [Accept-Language](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language)       |         
+| [Authorization](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization)         | 
+| [Expect](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Expect)                | 
+| [From](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/From)                  | 
+| [Host](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Host)                  | 
+| [If-Match](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/If-Match)              | 
+| [If-Modified-Since](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/If-Modified-Since)     | 
+| [If-None-Match](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/If-None-Match)         | 
+| [If-Range](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/If-Range)              | 
+| [If-Unmodified-Since](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/If-Unmodified-Since)   | 
+| [Max-Forwards](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Max-Forwards)          | 
+| [Proxy-Authorization](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Proxy-Authorization)   | 
+| [Range](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Range)                | 
+| [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer)              | 
+| [TE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/TE)              | 
+| [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent)         | 
 
 ## 3. HTTP Response
 - After receiving and interpreting a request message, a server responds with an HTTP response message. HTTP response include: 
