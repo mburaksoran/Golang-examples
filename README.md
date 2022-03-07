@@ -196,7 +196,7 @@ Example of API
 ### 3.2. Header Fields
 - Header fields give information about the server and about further access to the resource identified by the Request-URI
 
-| SOME OF HEADER FIELDS |   []	
+| SOME OF HEADER FIELDS |  	
 |-----------------------| 
 | [Accept-Ranges](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Ranges)		|
 | [Age](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Age)			|
