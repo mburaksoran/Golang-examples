@@ -196,15 +196,15 @@ Example of API
 ### 3.2. Header Fields
 - Header fields give information about the server and about further access to the resource identified by the Request-URI
 
-| SOME OF HEADER FIELDS |
+| SOME OF HEADER FIELDS |   []	
 |-----------------------| 
-| Accept-Ranges		|
-| Age				|
-| ETag			|
-| Location			|
-| Proxy-Authenticate	|
-| Retry-After		|
-| Server			|
-| Vary			|
-| WWW-Authenticate 	|
+| [Accept-Ranges](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Ranges)		|
+| [Age](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Age)			|
+| [ETag](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag)			|
+| [Location](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Location)			|
+| [Proxy-Authenticate](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Proxy-Authenticate)	|
+| [Retry-After](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Retry-After)		|
+| [Server](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server)			|
+| [Vary](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Vary)			|
+| [WWW-Authenticate](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/WWW-Authenticate) 	|
 
