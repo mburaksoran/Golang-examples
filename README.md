@@ -177,7 +177,7 @@ Example of API
 | **421**              | Misdirected Request                                             |
 | **451**              | Unavailable For Legal Reasons                                   |
 
-### 3.1.5. 5xx (500 to 506): Failure (System or Server Side Failures)
+### 3.1.5. 5xx: Failure (System or Server Side Failures)
 | **HTTP STATUS CODE** |                                                                 |
 |----------------------|-----------------------------------------------------------------|
 | **500**              |  Internal Server Error                                          |
