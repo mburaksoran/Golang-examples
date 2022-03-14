@@ -23,7 +23,6 @@ func NewRepository(db *gorm.DB) Repository {
 func (repo repository) Get(id uint) (*Model, error) {
 	model := &Model{ID: id}
 	err := repo.db.First(model).Error
-	// select * from users where id= id
 	if err != nil {
 		return nil, err
 	}
